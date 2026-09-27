@@ -1,5 +1,7 @@
 # LabelRobot
 
+**English** | [简体中文](README.zh-CN.md)
+
 LabelRobot is a local, read-only trajectory viewer and annotation layer for LeRobot datasets. It stores annotations beside the source dataset, exports immutable Parquet snapshots, and exposes labels through a PyTorch dataset wrapper.
 
 ## Run

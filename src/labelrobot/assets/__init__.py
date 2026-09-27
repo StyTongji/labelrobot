@@ -1,0 +1,1 @@
+"""Bundled default annotation vocabulary."""

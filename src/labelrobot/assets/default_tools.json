@@ -1,0 +1,6 @@
+{
+  "subtask": ["approach_object", "align_gripper", "grasp", "lift", "transport", "align_target", "release", "verify"],
+  "recovery": ["retry_grasp", "reapproach", "realign", "replan", "human_intervention"],
+  "observed_event": ["grasp_miss", "object_slip", "collision", "object_drop", "wrong_target", "wrong_place", "other"],
+  "expected_outcome": ["object_secured", "object_at_target", "contact_established", "motion_completed"]
+}

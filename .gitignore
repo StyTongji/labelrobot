@@ -6,3 +6,6 @@ __pycache__/
 frontend/node_modules/
 frontend/*.tsbuildinfo
 *.labelrobot/
+
+# Internal roadmap, kept local only
+PLAN.md
